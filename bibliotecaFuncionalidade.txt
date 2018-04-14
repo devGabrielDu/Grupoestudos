@@ -1,0 +1,25 @@
+
+
+
+
+
+			Biblioteca
+#Login Usuario Funcionario 
+ tela de login que dara acesso ao sistema principal com os campos (login, senha, recuperar senha)
+#login Estudante 
+ tela de login que dara acesso apenas para pesquisa de livros e datas com os campos (login, senha, recuperar senha)
+#Tela principal do sistema para funcionarios.
+Tela que tera um menu com os botoes 
+  -Cadastro de Livro, que levara para a tela de cadastro de livro que tera os campos (nome do livro, autor,codigo do livro).
+  -Cadastro de aluno, que levara para a tela de cadastro de alunos com os campos (Nome,senha escolhida, RA, Email, numero de cel).
+  -Mudança no estado do livro, que levara para a tela de estado do livro com os campos ( locado ou nao).
+  -Pesquisa de disponibilidade, que levara para a tela de pesquis que tera os campos (Nome do livro, autor, codigo e editora).
+  -Pesquisa de vencimento de   emprestimo,que levara para a tela de pesquisa de vencimento que tera os campos(Nome do aluno, Ra,).
+  -Pesquisa de Usuarios no BD, que levara para a tela de pesquisa no BD com sos campos (Nome, Ra).
+ 
+#Tela do aluno
+   Campo de pesquisa de livros, com os campos(Nome do livro, autor, disponibiidade e data de venciment da locação)
+#Bancod e dados para cadastro de livros e Alunos. 
+   CAluno (NomeAluno, RA, Email, Celular, curso, endereco).
+   CFunci (Nome, Registro da empresa, email, cel, endereço).
+  
